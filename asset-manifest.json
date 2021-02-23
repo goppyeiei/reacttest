@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/reacttest/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/reacttest/static/js/main.2b0a43cb.chunk.js",
-    "main.js.map": "/reacttest/static/js/main.2b0a43cb.chunk.js.map",
-    "runtime-main.js": "/reacttest/static/js/runtime-main.21a9b65a.js",
-    "runtime-main.js.map": "/reacttest/static/js/runtime-main.21a9b65a.js.map",
-    "static/js/2.c9496ea8.chunk.js": "/reacttest/static/js/2.c9496ea8.chunk.js",
-    "static/js/2.c9496ea8.chunk.js.map": "/reacttest/static/js/2.c9496ea8.chunk.js.map",
-    "static/js/3.80c313f0.chunk.js": "/reacttest/static/js/3.80c313f0.chunk.js",
-    "static/js/3.80c313f0.chunk.js.map": "/reacttest/static/js/3.80c313f0.chunk.js.map",
+    "main.css": "/reacttest/static/css/main.6a0e2e11.chunk.css",
+    "main.js": "/reacttest/static/js/main.d4b34009.chunk.js",
+    "main.js.map": "/reacttest/static/js/main.d4b34009.chunk.js.map",
+    "runtime-main.js": "/reacttest/static/js/runtime-main.19066fb2.js",
+    "runtime-main.js.map": "/reacttest/static/js/runtime-main.19066fb2.js.map",
+    "static/js/2.26bd96d8.chunk.js": "/reacttest/static/js/2.26bd96d8.chunk.js",
+    "static/js/2.26bd96d8.chunk.js.map": "/reacttest/static/js/2.26bd96d8.chunk.js.map",
+    "static/js/3.e7f9dff0.chunk.js": "/reacttest/static/js/3.e7f9dff0.chunk.js",
+    "static/js/3.e7f9dff0.chunk.js.map": "/reacttest/static/js/3.e7f9dff0.chunk.js.map",
     "index.html": "/reacttest/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/reacttest/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.c9496ea8.chunk.js.LICENSE.txt": "/reacttest/static/js/2.c9496ea8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/reacttest/static/media/logo.6ce24c58.svg"
+    "static/css/main.6a0e2e11.chunk.css.map": "/reacttest/static/css/main.6a0e2e11.chunk.css.map",
+    "static/js/2.26bd96d8.chunk.js.LICENSE.txt": "/reacttest/static/js/2.26bd96d8.chunk.js.LICENSE.txt",
+    "static/media/slide1.716ce344.jpg": "/reacttest/static/media/slide1.716ce344.jpg",
+    "static/media/slide2.a686f39c.jpg": "/reacttest/static/media/slide2.a686f39c.jpg",
+    "static/media/slide3.55440076.jpg": "/reacttest/static/media/slide3.55440076.jpg",
+    "static/media/slide4.9d03c7fb.jpg": "/reacttest/static/media/slide4.9d03c7fb.jpg",
+    "static/media/slide5.ea8392ad.jpg": "/reacttest/static/media/slide5.ea8392ad.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.21a9b65a.js",
-    "static/js/2.c9496ea8.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.2b0a43cb.chunk.js"
+    "static/js/runtime-main.19066fb2.js",
+    "static/js/2.26bd96d8.chunk.js",
+    "static/css/main.6a0e2e11.chunk.css",
+    "static/js/main.d4b34009.chunk.js"
   ]
 }
